@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notbook Mac Pro",
+      "price": "11111.11"
+    },
+    {
+      "name": "Samsung 4k 50\"",
+      "price": "5000.00",
+      "id": 3
+    },
+    {
+      "name": "Samsung 4k 55\"",
+      "price": "5800",
+      "id": 4
+    },
+    {
+      "name": "Samsung 4k 55\"",
+      "price": "123",
+      "id": 5
+    },
+    {
+      "name": "Dell Inspirion 21' i7",
+      "price": "8000,00",
+      "id": 6
+    }
+  ]
+}
